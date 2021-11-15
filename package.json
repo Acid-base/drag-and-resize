@@ -1,0 +1,23 @@
+{
+  "name": "drag-and-resize",
+  "version": "0.0.1",
+  "description": "drag, resize and pin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/acid-base/drag-and-resize.git"
+  },
+  "keywords": [
+    "drag-n-drop",
+    "resize"
+  ],
+  "author": "Volodymyr Varavva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acid-base/drag-and-resize/issues"
+  },
+  "homepage": "https://github.com/acid-base/drag-and-resize#readme"
+}
